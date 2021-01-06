@@ -1,0 +1,22 @@
+
+body{
+
+    font-family: sans-serif;
+}
+.menu-bar{
+    text-align: right;
+    padding: 15px;
+}
+.menu-bar ul{
+display: inline-flex;
+list-style: none;
+
+}
+.menu-bar ul li{
+    font-size: 20px;
+    width: 120px;
+    margin: 40px;
+    
+    color: slateblue;
+   
+}
