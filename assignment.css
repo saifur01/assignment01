@@ -1,11 +1,13 @@
 
 body{
-
+   margin: 0%;
     font-family: 'Poppins', sans-serif;
+    
 }
 .menu-bar{
     text-align: right;
     padding: 15px;
+    
 }
 .menu-bar ul{
 display: inline-flex;
@@ -16,19 +18,31 @@ list-style: none;
     font-size: 20px;
     width: 120px;
     margin: 40px;
+   
     
-    color: slateblue;
+    color: purple;
    
 }
 h1{
     font-size: 50px;
 }
+ h2{
+     font-size: 40px;
+ }
+
+ h4 {
+    text-align: center;
+    font-size: 30px;
+ 
+ }
 .name-highlight{
     color: tomato;
     width: 500px;
+   
 }
 .name-highlight01{
     color:purple;
+    
 }
 
 .half-width{
@@ -36,7 +50,42 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+   
+    
 }
 .half-width img{
     width: 100%;
+    height: 500px;
+   
 }
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
+.about-area{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 0%;
+    
+
+}
+
+p{
+    color: dimgray;
+}
+
+.mid-area{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 500px;
+    text-align: center;
+}
+
