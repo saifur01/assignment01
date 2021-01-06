@@ -1,7 +1,7 @@
 
 body{
 
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .menu-bar{
     text-align: right;
@@ -19,4 +19,24 @@ list-style: none;
     
     color: slateblue;
    
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: tomato;
+    width: 500px;
+}
+.name-highlight01{
+    color:purple;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
