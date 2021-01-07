@@ -11,6 +11,7 @@ h1{
 h2{
     font-size: 40px;
     font-weight: 700px;
+   
 }
 
 p{
@@ -95,4 +96,54 @@ p{
    } 
 
     
+   .card{
+    width: 400px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px bisque;
+    float: left;
+    
+}  
   
+.img-style{
+    width: 100%;
+}
+.card-body{
+    padding: 5px;
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+}
+img-dis{
+    text-align: justify;
+}
+
+
+
+
+
+.box-one{
+    width: 25%;
+    float: left;
+    padding: 15px 30px;
+    margin: 10px;
+}
+
+..box-one img{
+    width: 100%;
+
+}
+.box-one size{
+    font-size: 100%;
+    font-weight: 600;
+}
+.box-one{
+    box-shadow: 5px 5px 20px gray;
+    height: 53%;
+    background-color: white;
+    border-radius: 10%;
+}
+.box-one img{
+    width: 40%;
+}
