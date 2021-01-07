@@ -4,6 +4,36 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+
+
+.menu-bar{
+    text-align: right;
+    padding: 15px;
+    width:600px:
+    
+}
+.menu-bar ul{
+display: inline-flex;
+list-style: none;
+width:600px:
+
+}
+.menu-bar ul li{
+    font-size: 20px;
+    width: 120px;
+    margin: 40px;
+    width:600px:
+    color: purple;
+}
+
+
+
+
+
+
+
+
+
 h1{
     font-size: 50px;
     font-weight: 700px;
